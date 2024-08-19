@@ -1,0 +1,14 @@
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\bin\Debug\net8.0\hotelaria.exe
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\bin\Debug\net8.0\hotelaria.deps.json
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\bin\Debug\net8.0\hotelaria.runtimeconfig.json
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\bin\Debug\net8.0\hotelaria.dll
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\bin\Debug\net8.0\hotelaria.pdb
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.AssemblyInfoInputs.cache
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.AssemblyInfo.cs
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.csproj.CoreCompileInputs.cache
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.dll
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\refint\hotelaria.dll
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.pdb
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\hotelaria.genruntimeconfig.cache
+D:\Downloads\Aulas\dio\fullstack-dotnet-e-react\projetos\hotelaria\obj\Debug\net8.0\ref\hotelaria.dll
